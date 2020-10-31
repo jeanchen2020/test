@@ -1,4 +1,4 @@
-news.count("\n")
+!pip install monpa
 
 file = open("ChineseDataset_Assignment1.txt", 'r', encoding='UTF-8')
 news = file.read()
